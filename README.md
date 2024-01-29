@@ -44,6 +44,7 @@
 
 
 ### 🚘 Interested in autonomous driving 🚘
+<!--
 <div style="display:flex; flex-direction:row;">
     <a href="https://www.tesla.com/">
         <img src="https://img.shields.io/badge/tesla-red?style=for-the-badge&logo=Tesla&logoColor=white"> 
@@ -52,3 +53,4 @@
         <img src="https://img.shields.io/badge/hyundai-blue?style=for-the-badge&logo=hyundai&logoColor=white"> 
     </a>
 </div><br>
+-->
