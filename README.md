@@ -18,26 +18,26 @@
 ### Available Skill
 #### 💻 Languages
 <div style="display:flex; flex-direction:row;">
-    <a href="mailto:hojuni9999@kookmin.ac.kr">
+    <a href="">
         <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"> 
     </a>
-    <a href="https://www.instagram.com/fleecenuj">
+    <a href="">
         <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
     </a>
-    <a href="https://www.instagram.com/fleecenuj">
+    <a href="">
         <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white"> 
     </a>
 </div><br>
 
 #### 🛠️ Tools
 <div style="display:flex; flex-direction:row;">
-    <a href="mailto:hojuni9999@kookmin.ac.kr">
+    <a href="">
         <img src="https://img.shields.io/badge/google colab-orange?style=for-the-badge&logo=googlecolab&logoColor=white"> 
     </a>
-    <a href="https://www.instagram.com/fleecenuj">
+    <a href="">
         <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white"> 
     </a>
-    <a href="https://www.instagram.com/fleecenuj">
+    <a href="">
         <img src="https://img.shields.io/badge/ros2-navy?style=for-the-badge&logo=ros&logoColor=white"> 
     </a>
 </div><br>
