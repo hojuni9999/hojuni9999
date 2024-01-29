@@ -37,6 +37,9 @@
     <a href="https://www.instagram.com/fleecenuj">
         <img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white"> 
     </a>
+    <a href="https://www.instagram.com/fleecenuj">
+        <img src="https://img.shields.io/badge/ros2-navy?style=for-the-badge&logo=ros&logoColor=white"> 
+    </a>
 </div><br>
 
 
