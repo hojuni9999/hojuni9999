@@ -1,11 +1,11 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=black&text=&animation=twinkling&height=80) -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=blue&center=false&vCenter=false&multiline=true&repeat=flase&width=1000&height=100&lines=Welcome+to+hojun's+Page!!)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=0.01&pause=1&color=black&center=false&vCenter=false&multiline=false&repeat=flase&width=1000&height=100&lines=Welcome+to+hojun's+GitHub!!)](https://git.io/typing-svg) -->
 
-
+# 🎈😀 Welcome to hojun's git 😀🎈 #
 <!--
 [![hojun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hojuni9999&include_all_commits=true&show_icons=true&theme=blue)](https://github.com/hojuni9999/github-readme-stats)
 -->
-📞 Contact 📞
+📞 Contact 🇰🇷
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:hojuni9999@kookmin.ac.kr">
         <img src="https://img.shields.io/badge/hojuni9999-blue?style=for-the-badge&logo=Gmail&logoColor=white"> 
