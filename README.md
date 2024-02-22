@@ -45,7 +45,7 @@
 
 ### 🚘 Interested in autonomous driving 🚘
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%233DA9C8&title_bg=%23555555&icon=fossa.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhojuni9999&count_bg=%233DA9C8&title_bg=%23555555&icon=fossa.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 <div style="display:flex; flex-direction:row;">
     <a href="https://www.tesla.com/">
