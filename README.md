@@ -10,9 +10,6 @@
     <a href="mailto:hojuni9999@kookmin.ac.kr">
         <img src="https://img.shields.io/badge/hojuni9999-blue?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
-    <a href="https://www.instagram.com/fleecenuj">
-        <img src="https://img.shields.io/badge/fleeceunj-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
-    </a>
 </div><br>
 
 ### Available Skill
